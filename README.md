@@ -1,17 +1,17 @@
 # Exp-3 Create a Web-Layout using FLEXBOX.
-## AIM:
+## Aim:
 To write html & css code to create Web-Layout using FLEXBOX.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create a html code for the Web-Layout.
-### STEP 2:
+### Step 2:
 Make style for the Web Layout using style tag.
-### STEP 3:
+### Step 3:
 Include Style in the html using class and id Selector.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
-### HTML&CSS:
+## Program:
+#### HTML & CSS:
 ```html
 <!DOCTYPE html>
 <html>
@@ -85,4 +85,4 @@ Verify the output by running the Web-Layout in any web browser.
 ## OUTPUT:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX03/assets/93427303/b08a1d80-d1e7-4182-bd42-a81cd6328b98)
 ## RESULT:
-html & css code to create Web-Layout using FLEXBOX has been created and output has been verified.
+Thus the HTML & CSS code to create Web-Layout using FLEXBOX has been created and output has been verified.
